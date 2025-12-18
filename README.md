@@ -187,17 +187,11 @@ const Nine2FiveDEV = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Developer Meme of the Day
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-
-### 🎵 Coding to the beat of...
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
 ---
 
@@ -207,11 +201,6 @@ const Nine2FiveDEV = {
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
-
-![Visitor Count](https://profile-counter.glitch.me/Nine2FiveDEV/count.svg)
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 </div>
 
