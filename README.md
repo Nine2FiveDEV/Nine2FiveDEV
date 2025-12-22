@@ -18,6 +18,8 @@
 
 ## 🚀 About Me
 
+Blackout Terminal CA: 4xqUWjHuDmjKUa2gxiP7KiheJViUGMpZAuQ1T2zfjoyv
+
 </div>
 
 ```typescript
